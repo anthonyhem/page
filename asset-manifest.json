@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/page/static/js/main.7d08f233.chunk.js",
-    "main.js.map": "/page/static/js/main.7d08f233.chunk.js.map",
-    "runtime~main.js": "/page/static/js/runtime~main.493d39d8.js",
-    "runtime~main.js.map": "/page/static/js/runtime~main.493d39d8.js.map",
-    "static/js/2.209d4313.chunk.js": "/page/static/js/2.209d4313.chunk.js",
-    "static/js/2.209d4313.chunk.js.map": "/page/static/js/2.209d4313.chunk.js.map",
-    "index.html": "/page/index.html",
-    "precache-manifest.f17874534cf6a566f99341976d363af6.js": "/page/precache-manifest.f17874534cf6a566f99341976d363af6.js",
-    "service-worker.js": "/page/service-worker.js",
-    "static/media/American Arcade Supplies.jpg": "/page/static/media/American Arcade Supplies.96d7e862.jpg",
-    "static/media/Rezvan Foundation.jpg": "/page/static/media/Rezvan Foundation.df7818b8.jpg",
-    "static/media/Villas Tres Amores.jpg": "/page/static/media/Villas Tres Amores.872cbd6f.jpg",
-    "static/media/airtable.csv": "/page/static/media/airtable.d17c48f2.csv",
-    "static/media/profile.JPG": "/page/static/media/profile.8e3d46c9.JPG",
-    "static/media/resume.pdf": "/page/static/media/resume.2c9d7b1e.pdf"
+    "main.js": "/static/js/main.7d08f233.chunk.js",
+    "main.js.map": "/static/js/main.7d08f233.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.209d4313.chunk.js": "/static/js/2.209d4313.chunk.js",
+    "static/js/2.209d4313.chunk.js.map": "/static/js/2.209d4313.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.afb9a0712a3b2c273251141d4ab3b19a.js": "/precache-manifest.afb9a0712a3b2c273251141d4ab3b19a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/American Arcade Supplies.jpg": "/static/media/American Arcade Supplies.96d7e862.jpg",
+    "static/media/Rezvan Foundation.jpg": "/static/media/Rezvan Foundation.df7818b8.jpg",
+    "static/media/Villas Tres Amores.jpg": "/static/media/Villas Tres Amores.872cbd6f.jpg",
+    "static/media/airtable.csv": "/static/media/airtable.d17c48f2.csv",
+    "static/media/profile.JPG": "/static/media/profile.8e3d46c9.JPG",
+    "static/media/resume.pdf": "/static/media/resume.2c9d7b1e.pdf"
   }
 }
