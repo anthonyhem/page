@@ -11,7 +11,7 @@
     "react-scripts": "3.0.1",
     "semantic-ui-react": "^0.87.2"
   },
-  "homepage": "https://anthonyhem.github.io/page",
+  "homepage": "https://anthonyhem.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
