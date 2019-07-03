@@ -2,7 +2,6 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anthonyhem.com",
   "dependencies": {
     "d3": "^5.9.2",
     "gh-pages": "^2.0.1",
@@ -12,6 +11,7 @@
     "react-scripts": "3.0.1",
     "semantic-ui-react": "^0.87.2"
   },
+  "homepage": "https://anthonyhem.github.io/page",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
