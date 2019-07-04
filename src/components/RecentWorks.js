@@ -6,7 +6,7 @@ const RecentWorks = ({work}) => {
   if(!work){return <div>loading</div>};
   //add a card component that has the photo and title of the company/project instead of a button
   return (
-    <Modal trigger={<Card work={work}></Card>}>
+    <Modal trigger={<Card work={work}></Card>} closeIcon>
       <Modal.Header>{work.Organization}</Modal.Header>
       <Modal.Content image>
         <Image wrapped size='massive' src={require(`../images/${work.Organization}.jpg`)} />
