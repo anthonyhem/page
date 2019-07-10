@@ -23,9 +23,9 @@ class App extends React.Component {
 	render(){
 		return (
 			<div>
-				<Container text style={{ marginTop: '2em' }}>
+				<Container text style={{ marginTop: '3em', marginBottom: '3em'}}>
 					<Blurb />
-					<hr />
+					<hr style={{clear: 'both'}}/>
 					<Projects data={this.state.data}/>
 					<hr />
 					<Widgets />

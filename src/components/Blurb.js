@@ -7,7 +7,10 @@ import {
 const Blurb = () => {
 	return (
 		<div style={{ marginBottom: '2em' }}>
-			<Image className='ui small circular left floated image' src={require('../images/profile.JPG')} alt='mwuah' style={{ marginBottom: '0.5em' }} />
+			<Image className='ui small circular left floated image' 
+				   src={require('../images/profile.JPG')} 
+				   alt='mwuah' 
+				   />
 			<Header as='h1'>Pleasure to meet you! (o:</Header>
 			<p>
 				An empathetic sponge striving to bridge people together via technology. I enjoy helping others accomplish their goals through project management and by doing my best to understand/discover their true needs.
