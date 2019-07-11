@@ -4,7 +4,7 @@ import pdf from '../data/resume.pdf'
 
 const Widgets = () => {
 	return (
-		<div className="ui center aligned grid" style={{ marginTop: '0.2em' }}>
+		<div className="ui center aligned grid" style={{ marginTop: '1em' }}>
 			<div className="ui horizontal list">
 				<Menu.Item href="mailto: aanthonyhem@gmail.com">
 					 <Icon name="envelope outline" />

@@ -5,7 +5,7 @@ const Projects = ({data}) => {
 	console.log(data[0]);
 
 	return(
-		<div style={{ marginTop: '2em', marginBottom: '2em' }}>
+		<div style={{ marginTop: '1em', marginBottom: '2em' }}>
 			<div style={{marginBottom: '1em', textAlign: 'center'}}>Projects</div>
 			<div className="ui three column stackable grid">
 				<div className="column">
