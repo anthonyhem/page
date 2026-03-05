@@ -9,8 +9,7 @@ const App = () => {
       <p>Please enjoy this instead:</p>
       <video
         controls
-        width="90%"
-        max-width="600"
+        className="fun-video"
         src="video.mp4"
       >
         Your browser does not support the video tag.
