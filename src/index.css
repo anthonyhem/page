@@ -1,0 +1,53 @@
+/* Early-2000s subtle vibe: gradients, playful colors, rounded corners, pixel-ish font feel */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #ffe3e3, #fff4d9);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive; /* subtle retro pixel vibe */
+  font-size: 1.8em;
+  margin-bottom: 15px;
+  color: #ff4500;
+  text-shadow: 1px 1px #fff;
+}
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  color: #3333cc;
+  text-shadow: 1px 1px #fff;
+}
+
+.fun-video {
+  border-radius: 15px;
+  border: 3px dotted #ff69b4; /* playful retro border */
+  max-width: 600px;
+  width: 90%;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Mobile adjustments */
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5em;
+  }
+  p {
+    font-size: 1em;
+  }
+}
